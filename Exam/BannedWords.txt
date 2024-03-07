@@ -1,0 +1,6 @@
+Hello world
+C++
+Привет мир
+password
+pass
+123
